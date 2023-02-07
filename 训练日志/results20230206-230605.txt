@@ -1,0 +1,240 @@
+[epoch: 0]
+train_loss: 0.3310
+lr: 0.100000
+
+
+[epoch: 1]
+train_loss: 0.0865
+lr: 0.099090
+
+
+[epoch: 2]
+train_loss: 0.0621
+lr: 0.098180
+
+
+[epoch: 3]
+train_loss: 0.0554
+lr: 0.097269
+
+
+[epoch: 4]
+train_loss: 0.0483
+lr: 0.096356
+
+
+[epoch: 5]
+train_loss: 0.0454
+lr: 0.095443
+
+
+[epoch: 6]
+train_loss: 0.0438
+lr: 0.094529
+
+
+[epoch: 7]
+train_loss: 0.0420
+lr: 0.093613
+
+
+[epoch: 8]
+train_loss: 0.0400
+lr: 0.092697
+
+
+[epoch: 9]
+train_loss: 0.0376
+lr: 0.091780
+
+
+[epoch: 10]
+train_loss: 0.0353
+lr: 0.090861
+
+
+[epoch: 11]
+train_loss: 0.0331
+lr: 0.089942
+
+
+[epoch: 12]
+train_loss: 0.0318
+lr: 0.089022
+
+
+[epoch: 13]
+train_loss: 0.0305
+lr: 0.088100
+
+
+[epoch: 14]
+train_loss: 0.0290
+lr: 0.087178
+
+
+[epoch: 15]
+train_loss: 0.0272
+lr: 0.086254
+
+
+[epoch: 16]
+train_loss: 0.0257
+lr: 0.085329
+
+
+[epoch: 17]
+train_loss: 0.0247
+lr: 0.084404
+
+
+[epoch: 18]
+train_loss: 0.0241
+lr: 0.083477
+
+
+[epoch: 19]
+train_loss: 0.0238
+lr: 0.082549
+
+
+[epoch: 20]
+train_loss: 0.0232
+lr: 0.081619
+
+
+[epoch: 21]
+train_loss: 0.0232
+lr: 0.080689
+
+
+[epoch: 22]
+train_loss: 0.0227
+lr: 0.079757
+
+
+[epoch: 23]
+train_loss: 0.0228
+lr: 0.078824
+
+
+[epoch: 24]
+train_loss: 0.0226
+lr: 0.077890
+
+
+[epoch: 25]
+train_loss: 0.0222
+lr: 0.076955
+
+
+[epoch: 26]
+train_loss: 0.0222
+lr: 0.076018
+
+
+[epoch: 27]
+train_loss: 0.0217
+lr: 0.075081
+
+
+[epoch: 28]
+train_loss: 0.0217
+lr: 0.074141
+
+
+[epoch: 29]
+train_loss: 0.0218
+lr: 0.073201
+
+
+[epoch: 30]
+train_loss: 0.0216
+lr: 0.072259
+
+
+[epoch: 31]
+train_loss: 0.0210
+lr: 0.071316
+
+
+[epoch: 32]
+train_loss: 0.0214
+lr: 0.070371
+
+
+[epoch: 33]
+train_loss: 0.0212
+lr: 0.069425
+
+
+[epoch: 34]
+train_loss: 0.0211
+lr: 0.068478
+
+
+[epoch: 35]
+train_loss: 0.0208
+lr: 0.067529
+
+
+[epoch: 36]
+train_loss: 0.0210
+lr: 0.066579
+
+
+[epoch: 37]
+train_loss: 0.0207
+lr: 0.065627
+
+
+[epoch: 38]
+train_loss: 0.0207
+lr: 0.064673
+
+
+[epoch: 39]
+train_loss: 0.0207
+lr: 0.063718
+
+
+[epoch: 40]
+train_loss: 0.0207
+lr: 0.062762
+
+
+[epoch: 41]
+train_loss: 0.0202
+lr: 0.061804
+
+
+[epoch: 42]
+train_loss: 0.0203
+lr: 0.060844
+
+
+[epoch: 43]
+train_loss: 0.0202
+lr: 0.059882
+
+
+[epoch: 44]
+train_loss: 0.0203
+lr: 0.058919
+
+
+[epoch: 45]
+train_loss: 0.0203
+lr: 0.057954
+
+
+[epoch: 46]
+train_loss: 0.0201
+lr: 0.056987
+
+
+[epoch: 47]
+train_loss: 0.0200
+lr: 0.056018
+
+

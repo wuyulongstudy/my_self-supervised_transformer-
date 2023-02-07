@@ -1,0 +1,65 @@
+[epoch: 0]
+train_loss: 0.8991
+lr: 0.010000
+
+
+[epoch: 1]
+train_loss: 0.6670
+lr: 0.009909
+
+
+[epoch: 2]
+train_loss: 0.4978
+lr: 0.009818
+
+
+[epoch: 3]
+train_loss: 0.3949
+lr: 0.009727
+
+
+[epoch: 4]
+train_loss: 0.3415
+lr: 0.009636
+
+
+[epoch: 5]
+train_loss: 0.3141
+lr: 0.009544
+
+
+[epoch: 6]
+train_loss: 0.2986
+lr: 0.009453
+
+
+[epoch: 7]
+train_loss: 0.2885
+lr: 0.009361
+
+
+[epoch: 8]
+train_loss: 0.2814
+lr: 0.009270
+
+
+[epoch: 9]
+train_loss: 0.2757
+lr: 0.009178
+
+
+[epoch: 10]
+train_loss: 0.2711
+lr: 0.009086
+
+
+[epoch: 11]
+train_loss: 0.2670
+lr: 0.008994
+
+
+[epoch: 12]
+train_loss: 0.2633
+lr: 0.008902
+
+

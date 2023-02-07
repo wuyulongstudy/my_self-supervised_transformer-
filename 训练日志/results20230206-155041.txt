@@ -1,0 +1,30 @@
+[epoch: 0]
+train_loss: 0.5149
+lr: 0.100000
+
+
+[epoch: 1]
+train_loss: 0.1845
+lr: 0.099090
+
+
+[epoch: 2]
+train_loss: 0.1780
+lr: 0.098180
+
+
+[epoch: 3]
+train_loss: 0.1756
+lr: 0.097269
+
+
+[epoch: 4]
+train_loss: 0.1734
+lr: 0.096356
+
+
+[epoch: 5]
+train_loss: 0.1701
+lr: 0.095443
+
+
